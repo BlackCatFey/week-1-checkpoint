@@ -16,3 +16,4 @@
 | 6 | Added an About me section | Add about me section | main |
 | 7 | Added a list of things I like | Add list of things I like | main |
 | 8 | Added my goals | Add my goals section | main |
+| 9 | Added my favorite food | Add favorite food section | main |
