@@ -17,3 +17,7 @@
 | 7 | Added a list of things I like | Add list of things I like | main |
 | 8 | Added my goals | Add my goals section | main |
 | 9 | Added my favorite food | Add favorite food section | main |
+| 10 | Added my favorite site | Add favorite site section | main |
+| 11 | Added my pictures | Add picture section | main |
+| 12 | Added my live site | Add my live site | main |
+Live Site: https://blackcatfey.github.io/week-1-checkpoint/
